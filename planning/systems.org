@@ -1,0 +1,41 @@
+* TODO Systems
+This file describes the different systems used by Biblus.
+Every system should be testable on its own.
+
+** TODO Rules
+   - [ ] When to Roll Dice?
+   - [ ] How do Damage Calculations work?
+   - [ ] What is possible in any Situation?
+** TODO Menu
+   - [ ] Start Game
+   - [ ] Save Game
+   - [ ] Load Game
+   - [ ] End Game
+** TODO Combat
+   - [ ] Damage Calculations
+   - [ ] Combat Status Effects
+   - [ ] Kill and be Killed
+   - [ ] Exp Gain
+** TODO Campaign Generation
+   - [ ] Difficulty
+   - [ ] Completability
+   - [ ] One Main Quest
+   - [ ] A Bunch of Side Quests
+   - [ ] Locations
+   - [ ] Characters
+   - [ ] Seeding
+   - [ ] Custom Campaign
+** TODO Text User Interface
+   - [ ] Input
+   - [ ] Output
+   - [ ] Custom Font
+     - Dice
+** TODO Character
+   - [ ] Stats
+     - [ ] Level
+   - [ ] Inventory
+   - [ ] Equippment
+   - [ ] Die
+   - [ ] Persistence 
+*** TODO Dialogue
+*** TODO Social Interaction
