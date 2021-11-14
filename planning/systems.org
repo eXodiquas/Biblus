@@ -1,5 +1,5 @@
 * TODO Systems
-This file describes the different systems used by Biblus.
+This document describes the different systems used by Biblus.
 Every system should be testable on its own.
 
 ** TODO Rules
@@ -10,6 +10,7 @@ Every system should be testable on its own.
    - [ ] Start Game
    - [ ] Save Game
    - [ ] Load Game
+   - [ ] Options
    - [ ] End Game
 ** TODO Combat
    - [ ] Damage Calculations
@@ -31,11 +32,11 @@ Every system should be testable on its own.
    - [ ] Custom Font
      - Dice
 ** TODO Character
-   - [ ] Stats
-     - [ ] Level
-   - [ ] Inventory
-   - [ ] Equippment
-   - [ ] Die
+   - [X] Stats
+     - [X] Level
+   - [X] Inventory
+   - [X] Equippment
    - [ ] Persistence 
-*** TODO Dialogue
 *** TODO Social Interaction
+**** TODO Dialogue
+*** TODO Magic Interaction
