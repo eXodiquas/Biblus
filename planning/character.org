@@ -1,0 +1,45 @@
+* Character
+This document describes everything about a character.
+
+** Stats (The Fisken System)
+Every character is defined by the following stats:
+- Finesse
+  Every action that uses dexterity instead of muscles
+- Intellect
+  Every action that needs the smart people to execute (and magic)
+- Strength 
+  Every action that takes muscles instead of brain
+- Kindness
+  Every action that interacts with a person on a non physical level
+- Endurance
+  The modifier for the damage a character can take.
+- Nobility 
+  The modifier for how good or evil you are in the world.
+
+A character also has life points (LP). If those points reach 0, the character dies.
+
+*** Level 
+Every character has a level which represents the amount of experience (EXP) they got in the world.
+A low level means a low amount of EXP and vice versa. Every level up, a character aquires skill points which can be used to upgrade their stats.
+
+** Inventory
+The size of the inventory is based on the strength of the character. The stronger a character is the more stuff they can lift at the same time. If you lift more stuff than you can handle, you will be punsihed by lower stats (for example, every 5 units of weight over the maximum lowers your stats by 10%).
+
+** Equippment
+A character has the following slots to wear equippment:
+
+- Head
+- Shoulder
+- Torso
+- Leg
+- Foot
+- Hand Left
+- Hand Right
+- Ring Left
+- Ring Right
+- Cape
+
+Those items will modify stats and other things.
+
+** Persistance
+A character can be played in more than one campaign. So after finishing one campaign you can start another one with the same character.
