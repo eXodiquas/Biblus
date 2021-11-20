@@ -41,5 +41,5 @@ A character has the following slots to wear equippment:
 
 Those items will modify stats and other things.
 
-** Persistance
+** Persistence
 A character can be played in more than one campaign. So after finishing one campaign you can start another one with the same character.
